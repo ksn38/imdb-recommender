@@ -2,7 +2,7 @@
 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset  
 
 Insert kaggle tables in imdb-recommender/data folder  
-Insert your exported ratings.csv in imdb-recommender folder  
+Insert your exported *.csv in imdb-recommender folder  
 In the case of "Memory Error", reduce quartile3 or increase quartile1  
  
 ![pic](https://github.com/ksn38/imdb-recommender/blob/main/data/pic.png)
